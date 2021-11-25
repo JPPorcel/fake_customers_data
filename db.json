@@ -3,7 +3,7 @@
         {
             "id": 167,
             "name": "Leanne Graham",
-            "contry": "GB",
+            "country": "GB",
             "language": "EN",
             "VAT": "GB887532451",
             "address": {
@@ -23,7 +23,7 @@
         {
             "id": 235,
             "name": "Ervin Howell",
-            "contry": "GB",
+            "country": "GB",
             "language": "EN",
             "VAT": "GB957295603",
             "address": {
@@ -43,7 +43,7 @@
         {
             "id": 354,
             "name": "Clementine Bauch",
-            "contry": "GB",
+            "country": "GB",
             "language": "EN",
             "VAT": "GB075376927",
             "address": {
@@ -63,7 +63,7 @@
         {
             "id": 487,
             "name": "Patricia Lebsack",
-            "contry": "GB",
+            "country": "GB",
             "language": "EN",
             "VAT": "GB765837902",
             "address": {
@@ -83,7 +83,7 @@
         {
             "id": 564,
             "name": "Chelsey Dietrich",
-            "contry": "GB",
+            "country": "GB",
             "language": "EN",
             "VAT": "GB759834091",
             "address": {
@@ -103,7 +103,7 @@
         {
             "id": 699,
             "name": "Mrs. Dennis Schulist",
-            "contry": "GB",
+            "country": "GB",
             "language": "EN",
             "VAT": "GB89234534",
             "address": {
@@ -123,7 +123,7 @@
         {
             "id": 733,
             "name": "Kurtis Weissnat",
-            "contry": "GB",
+            "country": "GB",
             "language": "EN",
             "VAT": "GB41245234",
             "address": {
@@ -143,7 +143,7 @@
         {
             "id": 821,
             "name": "Nicholas Runolfsdottir V",
-            "contry": "GB",
+            "country": "GB",
             "language": "EN",
             "VAT": "GB2347245",
             "address": {
@@ -163,7 +163,7 @@
         {
             "id": 944,
             "name": "Glenna Reichert",
-            "contry": "GB",
+            "country": "GB",
             "language": "EN",
             "VAT": "GB12872342",
             "address": {
@@ -183,7 +183,7 @@
         {
             "id": 1062,
             "name": "Clementina DuBuque",
-            "contry": "GB",
+            "country": "GB",
             "language": "EN",
             "VAT": "GB87532543",
             "address": {
