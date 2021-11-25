@@ -18,7 +18,8 @@
             },
             "phone": "1-770-736-8031 x56442",
             "website": "hildegard.org",
-            "company": "Romaguera-Crona"
+            "company": "Romaguera-Crona",
+            "shortName": "Romaguera-Crona"
         },
         {
             "id": 235,
@@ -38,7 +39,8 @@
             },
             "phone": "010-692-6593 x09125",
             "website": "anastasia.net",
-            "company": "Deckow-Crist"
+            "company": "Deckow-Crist",
+            "shortName": "Deckow-Crist"
         },
         {
             "id": 354,
@@ -58,7 +60,8 @@
             },
             "phone": "1-463-123-4447",
             "website": "ramiro.info",
-            "company": "Romaguera-Jacobson"
+            "company": "Romaguera-Jacobson",
+            "shortName": "Romaguera-Jacobson"
         },
         {
             "id": 487,
@@ -78,7 +81,8 @@
             },
             "phone": "493-170-9623 x156",
             "website": "kale.biz",
-            "company": "Robel-Corkery"
+            "company": "Robel-Corkery",
+            "shortName": "Robel-Corkery"
         },
         {
             "id": 564,
@@ -98,7 +102,8 @@
             },
             "phone": "(254)954-1289",
             "website": "demarco.info",
-            "company": "Keebler LLC"
+            "company": "Keebler LLC",
+            "shortName": "Keebler LLC"
         },
         {
             "id": 699,
@@ -118,7 +123,8 @@
             },
             "phone": "1-477-935-8478 x6430",
             "website": "ola.org",
-            "company": "Considine-Lockman"
+            "company": "Considine-Lockman",
+            "shortName": "Considine-Lockman"
         },
         {
             "id": 733,
@@ -138,7 +144,8 @@
             },
             "phone": "210.067.6132",
             "website": "elvis.io",
-            "company": "Johns Group"
+            "company": "Johns Group",
+            "shortName": "Johns Group"
         },
         {
             "id": 821,
@@ -158,7 +165,8 @@
             },
             "phone": "586.493.6943 x140",
             "website": "jacynthe.com",
-            "company": "Abernathy Group"
+            "company": "Abernathy Group",
+            "shortName": "Abernathy Group"
         },
         {
             "id": 944,
@@ -178,7 +186,8 @@
             },
             "phone": "(775)976-6794 x41206",
             "website": "conrad.com",
-            "company": "Yost and Sons"
+            "company": "Yost and Sons",
+            "shortName": "Yost and Sons"
         },
         {
             "id": 1062,
@@ -198,7 +207,8 @@
             },
             "phone": "024-648-3804",
             "website": "ambrose.net",
-            "company": "Hoeger LLC"
+            "company": "Hoeger LLC",
+            "shortName": "Hoeger LLC"
         }
     ]
 }
